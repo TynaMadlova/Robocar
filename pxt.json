@@ -7,9 +7,7 @@
         "pxt-magicbit-pca9685": "github:tomaskazda/pxt-magicbit-pca9685#cc3452fed948afe4b2e56628fd6fde92110b3ef4"
     },
     "files": [
-        "README.md",
-        "magicbitPCA9685.ts",
-        "servo.ts"
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
